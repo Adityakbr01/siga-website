@@ -133,7 +133,7 @@ const Home = () => {
               <div className="mt-8 flex flex-col gap-4">
                 <div className="flex flex-wrap items-center gap-3">
                   <motion.a
-                    href="https://www.sigafair.com"
+                    href="https://sigafair.in"
                     target="_blank"
                     rel="noopener noreferrer"
                     whileHover={{ scale: shouldReduce ? 1 : 1.035 }}
