@@ -394,10 +394,6 @@ export default function EventAnnouncementV2() {
                   className="w-full h-auto block"
                   loading="lazy"
                 />
-
-                <div className="absolute top-4 left-4 bg-black/60 backdrop-blur-md rounded-full px-4 py-1.5 text-white text-xs font-semibold tracking-wide border border-white/10 shadow-lg">
-                  Palace Grounds, Bangalore • 28 - 30 Jul 2026
-                </div>
               </div>
             </div>
 
